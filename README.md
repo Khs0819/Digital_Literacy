@@ -16,7 +16,7 @@ Digital Literacy is crucial for personal, educational, and professional success.
 * Using digital tools for productivity
 * Data privacy awareness
 
-Installation
+2- Installation:
 Prerequisites
 Before using the resources in this repository, make sure you have the following installed:
 
@@ -27,6 +27,7 @@ Before using the resources in this repository, make sure you have the following 
 Clone the repository: To get started with the Digital_Literacy repository, first clone it to your local machine:
 
 * git clone https://github.com/Khs0819/Digital_Literacy.git
+
 Install dependencies
 
 Navigate to the project directory and install dependencies:
@@ -39,11 +40,11 @@ Navigate to the project directory and install dependencies:
 * npm install
 * npm run dev
 
-Usage
-After installing the necessary dependencies, you can use the educational materials directly or run the application (if applicable).
+3- Usage:
+After installing the necessary dependencies, you can use the educational materials directly or run the application.
 
 
-Contributing
+4- Contributing:
 We welcome contributions from the community! If you'd like to contribute to the Digital_Literacy project, follow these steps:
 
 Fork the repository.
@@ -54,5 +55,5 @@ Push to the branch (git push origin feature-name).
 Create a new Pull Request.
 Please ensure your code follows the style guide and passes any tests before submitting a PR.
 
-License
+5- License:
 This project is licensed under the MIT License - see the LICENSE file for details.
