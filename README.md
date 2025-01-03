@@ -1,5 +1,6 @@
 
-The Digital_Literacy repository aims empowers children and youth to navigate the internet confidently, while safety awareness educates them about potential risks. Access to technology ensures that children can engage with digital resources, enhancing their learning and development. These efforts collectively create a safer digital landscape, allowing children to explore, learn, and communicate effectively.
+# Digital_Literacy
+Welcome to the **Digital_Literacy** repository! This project aims empowers children and youth to navigate the internet confidently, while safety awareness educates them about potential risks. Access to technology ensures that children can engage with digital resources, enhancing their learning and development. These efforts collectively create a safer digital landscape, allowing children to explore, learn, and communicate effectively.
 
 Table of Contents:
 1. Introduction
@@ -16,29 +17,53 @@ Digital Literacy is crucial for personal, educational, and professional success.
 * Using digital tools for productivity
 * Data privacy awareness
 
-2- Installation:
-Prerequisites
-Before using the resources in this repository, make sure you have the following installed:
 
-* Node.js
-* Git
+## Getting Started
+
+To get started with this project, clone the repository and follow the setup instructions below.
+
+### Prerequisites
+
+- Python 3.x
+- Node.js
+- React
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Khs0819/Digital_Literacy.git
+   ```
+   
+2. Navigate to the project directory:
+
+  ```
+  cd Digital_Literacy
+  ```
+
+3. Install the required dependencies for the backend:
+4. Install the frontend dependencies:
+   ```
+    cd client
+    npm install
+
+4. Install the backend dependencies:
+   ```
+    cd server
+    npm install
+
+5. Run the application:
 
 
-Clone the repository: To get started with the Digital_Literacy repository, first clone it to your local machine:
-
-* git clone https://github.com/Khs0819/Digital_Literacy.git
-
-Install dependencies
-
-Navigate to the project directory and install dependencies:
-
-* cd server
-* npm install
-* npm start
-
-* cd client
-* npm install
-* npm run dev
+  ```
+  cd server
+  npm start
+  ```
+  ```
+  cd client
+  npm run dev
+  ```
 
 3- Usage:
 After installing the necessary dependencies, you can use the educational materials directly or run the application.
@@ -57,3 +82,4 @@ Please ensure your code follows the style guide and passes any tests before subm
 
 5- License:
 This project is licensed under the MIT License - see the LICENSE file for details.
+
