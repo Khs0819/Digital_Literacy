@@ -1,6 +1,6 @@
 
 # Digital_Literacy
-Welcome to the **Digital_Literacy** repository! This project aims empowers children and youth to navigate the internet confidently, while safety awareness educates them about potential risks. Access to technology ensures that children can engage with digital resources, enhancing their learning and development. These efforts collectively create a safer digital landscape, allowing children to explore, learn, and communicate effectively.
+Welcome to Our **Digital_Literacy** repository! This project aims to empowers children and youth to navigate the internet confidently, while safety awareness educates them about potential risks. Access to technology ensures that children can engage with digital resources, enhancing their learning and development. These efforts collectively create a safer digital landscape, allowing children to explore, learn, and communicate effectively.
 
 Table of Contents:
 1. Introduction
