@@ -61,7 +61,7 @@ function App() {
     !loading && (
       <>
         <AlanAIComponent />
-        {/* <h1>{import.meta.env.VITE_API_URL}</h1> */}
+        <h1>{import.meta.env.VITE_API_URL}</h1>
         <Routes>
           <Route path="/" element={<Homepage />}></Route>
 
@@ -109,12 +109,11 @@ function App() {
             path="/Signup"
             element={
               <>
-                <Navbar /> <Signup />
+                <Navbar />
+                <Signup />
               </>
             }
           ></Route>
-
-          {/* Enter routes from here Yash Suthar */}
 
           <Route
             path="/LearningPath"
